@@ -1,6 +1,6 @@
 <h1 align="right"Mohamed Tag</h1>
 **'Tech Alchemist (Developer/Data Scientist)'**
-<img alt='coding' src = 'https://ibb.co/8jSmrsL'
+<img alt='coding' src = 'https://postimg.cc/k6GNJBXJ'
      
 - 📫 How to reach me **mohamedtag264@gmail.com**
 
