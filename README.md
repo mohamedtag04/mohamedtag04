@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Tag</h1>
 <h3 align="center">Tech Alchemist (Developer/Data Scientist)</h3>
-<img align="right" alt='coding' width = '500' src = 'https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif'
+<img align="right" alt='coding' width = '400' src = 'https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif'
      
 - 📫 How to reach me **mohamedtag264@gmail.com**
 
