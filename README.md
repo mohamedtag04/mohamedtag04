@@ -1,10 +1,33 @@
-<h1> Mohamed Tag</h1>
-     
-- 📫 How to reach me **mohamedtag264@gmail.com**
+<h1 align="center">Hi there, I'm Mohamed Tag! 👋</h1>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-tag-ai/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohamed%20Tag-blue?style=flat-square&logo=linkedin">
+  </a>
+  <a href="https://github.com/mohamedtag04" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-mohamedtag04-black?style=flat-square&logo=github">
+  </a>
+  <a href="mailto:mohamedtag264@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-mohamedtag264%40gmail.com-red?style=flat-square&logo=gmail">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<h3 align="center">🚀 Data Science & AI Enthusiast | Passionate Developer | Tech Explorer 🚀</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedtag04&show_icons=true&locale=en&layout=compact" alt="mohamedtag04" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedtag04&show_icons=true&count_private=true&hide=issues&hide_border=true&theme=dark" alt="GitHub Stats">
+</p>
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="SQL" width="40" height="40"/>
+</p>
+
+
+
