@@ -14,10 +14,6 @@
 
 <h3 align="center">🚀 Data Science & AI Enthusiast | Passionate Developer | Tech Explorer 🚀</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedtag04&show_icons=true&count_private=true&hide=issues&hide_border=true&theme=dark" alt="GitHub Stats">
-</p>
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
